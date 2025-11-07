@@ -20,3 +20,6 @@ def par(n):
 
 def impar(n):
     return n%2 != 0 
+
+def par1(n):
+    return f"Y si armamos un baretooo??"
