@@ -17,3 +17,6 @@ def es_primo(n):
 
 def par(n):
     return n%2 == 0
+
+def impar(n):
+    return n%2 != 0 
